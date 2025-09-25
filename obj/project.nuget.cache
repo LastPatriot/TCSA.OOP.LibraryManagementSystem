@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "OX/Wr4rl5Lk=",
+  "success": true,
+  "projectFilePath": "/Users/opeyemioluwadare/Documents/projects/learning/TCSA.OOP.LibraryManagementSystem/TCSA.OOP.LibraryManagementSystem.csproj",
+  "expectedPackageFiles": [
+    "/Users/opeyemioluwadare/.nuget/packages/spectre.console/0.51.1/spectre.console.0.51.1.nupkg.sha512"
+  ],
+  "logs": []
+}
